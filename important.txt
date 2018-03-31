@@ -1,0 +1,3 @@
+cd env/scripts
+activate
+(env) virtual environment has been created
